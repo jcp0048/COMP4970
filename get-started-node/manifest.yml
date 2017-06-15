@@ -6,7 +6,3 @@ applications:
   name: COMP4970-jcp
   host: comp4970-jcp
   disk_quota: 1024M
-  services:
-  - availability-monitoring-auto
-  - Cloudant NoSQL DB-ss
-  - Conversation-jcp
