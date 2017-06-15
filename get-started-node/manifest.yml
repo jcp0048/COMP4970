@@ -5,4 +5,5 @@ applications:
   domain: mybluemix.net
   name: COMP4970-jcp
   host: comp4970-jcp
+  random-route: true
   disk_quota: 1024M
