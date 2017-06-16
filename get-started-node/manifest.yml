@@ -3,7 +3,6 @@ applications:
   memory: 256M
   instances: 1
   domain: mybluemix.net
-  name: COMP4970-jcp
-  host: comp4970-jcp
-  random-route: true
+  name: prereqs
+  host: prereqs
   disk_quota: 1024M
